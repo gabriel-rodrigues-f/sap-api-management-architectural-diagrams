@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T14:57:16.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Zq8CdWa2LLTZRzvcHpD9" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-11T14:57:53.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PZTzA6SQ_cRumT6-kj3Y" version="21.6.8" type="github" pages="5">
   <diagram id="GKwk_b5rid1CKYbqW2ll" name="Backend">
     <mxGraphModel dx="1851" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="LB9G6rotDg3ES2SKx9s0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28u4Evw6ZmKoehWRJMRo-10" target="UuWgy5EtENhjZNpAlKyN-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28u4Evw6ZmKoehWRJMRo-10" value="Hysky&lt;br&gt;(lint, pretty, test, test build)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="28u4Evw6ZmKoehWRJMRo-10" value="Pre-commit tool&lt;br&gt;(lint, pretty, test, test build)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-365" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7YXm6RjWN43J1pmPWQ67-1" value="Docker container Nodejs 18.x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
